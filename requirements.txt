@@ -1,0 +1,14 @@
+ipykernel
+ipywidgets
+numpy
+pandas
+requests
+gensim
+nltk
+scikit-learn
+plotly
+kagglehub
+kagglesdk==0.1.24
+symspellpy
+textblob
+spacy
